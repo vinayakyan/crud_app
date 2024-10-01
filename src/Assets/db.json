@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "3675",
+      "first_name": "John",
+      "last_name": "Wick",
+      "email": "john@gmail.com",
+      "contact": "+419876543210",
+      "address": "Street 11",
+      "city": "London",
+      "zip": "123456"
+    },
+    {
+      "id": "fdc5",
+      "first_name": "Steve",
+      "last_name": "Smith",
+      "email": "steve@gmail.com",
+      "contact": "+419876543210",
+      "address": "Street 11",
+      "city": "London",
+      "zip": "123456"
+    },
+    {
+      "id": "eb8b",
+      "first_name": "Kevin",
+      "last_name": "Quinn",
+      "email": "kevin@gmail.com",
+      "contact": "+411234567890",
+      "address": "London Street",
+      "city": "London",
+      "zip": "123456"
+    },
+    {
+      "id": "5654",
+      "first_name": "Gopal",
+      "last_name": "Kolhe",
+      "email": "gopal@gmail.com",
+      "contact": "+918888888888",
+      "address": "Krushnai Plaza, M floor, Above Pizza Hut",
+      "city": "Pune",
+      "zip": "411052"
+    },
+    {
+      "id": "66cc",
+      "first_name": "Shubham",
+      "last_name": "Ingale",
+      "email": "shubham@gmail.com",
+      "contact": "+918888888888",
+      "address": "Karve Nagar",
+      "city": "Pune",
+      "zip": "411052"
+    },
+    {
+      "id": "c841",
+      "first_name": "Vinayak",
+      "last_name": "Yande",
+      "email": "vcharms@gmail.com",
+      "contact": "+918888888888",
+      "address": "BHAGWA CHOUK , VANI GALLI",
+      "city": "WASHI",
+      "zip": "413503"
+    }
+  ]
+}
